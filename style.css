@@ -3,8 +3,11 @@
     grid-template-columns: auto auto auto auto auto auto auto auto auto auto;
     background-color: white;
     height: 45vw;
-    width: 87vw;
+    width: 81vw;
     border: 12px solid rgb(0, 255, 76);
+     margin-left: 100px;
+    margin-top: 30px;
+
 
 }
 
