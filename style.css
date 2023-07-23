@@ -1,0 +1,267 @@
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto;
+    background-color: white;
+    height: 45vw;
+    width: 87vw;
+    border: 12px solid rgb(0, 255, 76);
+
+}
+
+div {
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+
+}
+
+#img1 {
+    background-image: url("https://igimages.gumlet.io/tamil/gallery/actress/sakshiagarwal291014/sakshiagarwalposter120723.jpg?w=240&dpr=1.0");
+    background-size: cover;
+}
+
+#img2 {
+    background-image: url("https://igimages.gumlet.io/telugu/gallery/actress/uppena_krithishetty/krithishettyposter120723.jpg?w=240&dpr=1.0");
+    background-size: cover;
+}
+
+#img3 {
+    background-image: url("https://igimages.gumlet.io/tamil/gallery/actress/iswaryamenon/iswaryamenonposter270623.jpg?w=240&dpr=1.0");
+    background-size: cover;
+}
+
+#img4 {
+    background-image: url("https://igimages.gumlet.io/malayalam/gallery/actress/bhavana/bhavanaposter130720.jpg?w=240&dpr=1.0");
+    background-size: cover;
+}
+
+#img5 {
+    background-image: url("https://i.pinimg.com/236x/7c/68/23/7c6823a307b6279034c92c5e533f7041.jpg ");
+    background-size: cover;
+}
+
+#img6 {
+    background-image: url("https://i.pinimg.com/236x/5f/3f/49/5f3f498c1390237145cdeeb1fcf4c718.jpg ");
+    background-size: cover;
+}
+
+#img7 {
+    background-image: url("https://i.pinimg.com/236x/7e/6e/f0/7e6ef0beb34b6286ddb30cd68bc21040.jpg ");
+    background-size: cover;
+}
+
+#img8 {
+    background-image: url("https://i.pinimg.com/236x/b9/23/9a/b9239a5b68324ff923a6df58abde55ff.jpg ");
+    background-size: cover;
+}
+
+#img9 {
+    background-image: url(" https://i.pinimg.com/236x/bc/62/2b/bc622bd0aec6af9e4a82a8b9b6d145ea.jpg");
+    background-size: cover;
+}
+
+#img10 {
+    background-image: url(" https://i.pinimg.com/236x/2c/af/b2/2cafb2e96c5ba26695508dfbc688a753.jpg");
+    background-size: cover;
+}
+
+#img11 {
+    background-image: url("https://i.pinimg.com/236x/94/46/ac/9446ac96f8412b045ff8da7b37fc2843.jpg ");
+    background-size: cover;
+}
+
+#img12 {
+    background-image: url("https://i.pinimg.com/236x/c9/0c/44/c90c44ad17282ed1507bf6ad6bebeb5f.jpg ");
+    background-size: cover;
+}
+
+#img13 {
+    background-image: url("https://i.pinimg.com/236x/21/e0/04/21e0043af7d29ca73c0f246d171cd35d.jpg ");
+    background-size: cover;
+}
+
+#img14 {
+    background-image: url("https://i.pinimg.com/236x/18/4b/05/184b05bc819d83fc9916bb4e0cc924e6.jpg ");
+    background-size: cover;
+}
+
+#img15 {
+    background-image: url(" https://i.pinimg.com/236x/61/a2/e7/61a2e71abece4d52eec7ec3b5aa41a9e.jpg");
+    background-size: cover;
+}
+
+#img16 {
+    background-image: url("https://i.pinimg.com/236x/c3/1c/36/c31c362413740c77acf6446ab93af910.jpg ");
+    background-size: cover;
+}
+
+#img17 {
+    background-image: url("https://i.pinimg.com/236x/20/07/90/200790e4d230407febb894fed7c98226.jpg ");
+    background-size: cover;
+}
+
+#img18 {
+    background-image: url("https://i.pinimg.com/236x/0d/61/85/0d6185c60aac3fcd359bbd61d5ba1176.jpg ");
+    background-size: cover;
+}
+
+#img19 {
+    background-image: url("https://i.pinimg.com/236x/8e/3b/9f/8e3b9f6108deaf26a58d25f989bef315.jpg ");
+    background-size: cover;
+}
+
+#img20 {
+    background-image: url("https://i.pinimg.com/236x/47/a2/d7/47a2d7018e08a238b6adc75e5e8bacf0.jpg ");
+    background-size: cover;
+}
+
+#img21 {
+    background-image: url("https://i.pinimg.com/236x/95/25/d6/9525d68685f7f380b92eb7516514f55b.jpg ");
+    background-size: cover;
+}
+
+#img22 {
+    background-image: url("https://i.pinimg.com/236x/2a/82/57/2a82575f682ab574263bb6976aea911f.jpg ");
+    background-size: cover;
+}
+
+#img23 {
+    background-image: url("https://i.pinimg.com/236x/b2/69/68/b269687c6a136b546cf9c746e2ffa909.jpg ");
+    background-size: cover;
+}
+
+#img24 {
+    background-image: url("https://i.pinimg.com/236x/0b/83/09/0b8309ecaaf2b9117476fd3ea3f0fd76.jpg ");
+    background-size: cover;
+}
+
+#img25 {
+    background-image: url("https://i.pinimg.com/236x/e2/46/97/e24697e44c830cda0542b7d86f615621.jpg ");
+    background-size: cover;
+}
+
+#img26 {
+    background-image: url("https://i.pinimg.com/236x/a7/71/b2/a771b2f52877bce867df4cea88a3973f.jpg ");
+    background-size: cover;
+}
+
+#img27 {
+    background-image: url("https://i.pinimg.com/236x/52/84/4e/52844e2dedbcb7ba70b53035eca6787a.jpg ");
+    background-size: cover;
+}
+
+#img28 {
+    background-image: url("https://i.pinimg.com/236x/e0/9b/0d/e09b0d34ff8c6d42608de5337916b3bf.jpg ");
+    background-size: cover;
+}
+
+#img29 {
+    background-image: url("https://i.pinimg.com/236x/63/76/06/63760607be59cf9f15e9607fd481e7b5.jpg ");
+    background-size: cover;
+}
+
+#img30 {
+    background-image: url("https://i.pinimg.com/236x/ac/fa/9d/acfa9d82b5b4538f15f7839218b2cc68.jpg ");
+    background-size: cover;
+}
+
+#img31 {
+    background-image: url("https://i.pinimg.com/236x/b0/f0/c1/b0f0c1f352947d4c0cba6106b2717eaa.jpg ");
+    background-size: cover;
+}
+
+#img32 {
+    background-image: url("https://i.pinimg.com/236x/82/8b/d7/828bd7fd724d9f8e80ee0e871df5a63d.jpg ");
+    background-size: cover;
+}
+
+#img33 {
+    background-image: url("https://i.pinimg.com/236x/ba/b0/74/bab07467c2d43556bb04e9469e4ac10e.jpg ");
+    background-size: cover;
+}
+
+#img34 {
+    background-image: url("https://i.pinimg.com/236x/73/29/e6/7329e6f21e5dafb9867c9294e410ebc4.jpg ");
+    background-size: cover;
+}
+
+#img35 {
+    background-image: url("https://i.pinimg.com/236x/a9/8f/9e/a98f9e681bc101dd2718beb4fe17193f.jpg ");
+    background-size: cover;
+}
+
+#img36 {
+    background-image: url("https://i.pinimg.com/236x/89/f2/0c/89f20c1f15276883f49e7849854848f5.jpg ");
+    background-size: cover;
+}
+
+#img37 {
+    background-image: url("https://i.pinimg.com/236x/75/6a/da/756adaee09445b643f5700b153224fd5.jpg ");
+    background-size: cover;
+}
+
+#img38 {
+    background-image: url("https://i.pinimg.com/236x/84/49/a3/8449a3b0c620d33acf38dbb29555e07f.jpg ");
+    background-size: cover;
+}
+
+#img39 {
+    background-image: url("https://i.pinimg.com/236x/e9/3a/b3/e93ab3b3ddc19b4fe4802e9bc386a138.jpg ");
+    background-size: cover;
+}
+
+#img40 {
+    background-image: url("https://i.pinimg.com/236x/04/70/87/047087d7ad81b2c49d75d04c96f862d2.jpg ");
+    background-size: cover;
+}
+
+#img41 {
+    background-image: url("https://i.pinimg.com/236x/86/a9/14/86a914fbd352aad9c467cb4dd8338e80.jpg ");
+    background-size: cover;
+}
+
+#img42 {
+    background-image: url("https://i.pinimg.com/236x/ba/b0/74/bab07467c2d43556bb04e9469e4ac10e.jpg ");
+    background-size: cover;
+}
+
+#img43 {
+    background-image: url("https://i.pinimg.com/236x/c2/18/28/c218285ea17fa0fdee68c5be9ffa2b6b.jpg ");
+    background-size: cover;
+}
+
+#img44 {
+    background-image: url(" https://i.pinimg.com/236x/42/da/34/42da348cbdbcc0a87e8d5bba888ce5eb.jpg");
+    background-size: cover;
+}
+
+#img45 {
+    background-image: url("https://i.pinimg.com/236x/94/69/f2/9469f25eb52b72a412f5d43240fa3121.jpg ");
+    background-size: cover;
+}
+
+#img46 {
+    background-image: url("https://i.pinimg.com/236x/8e/ae/3c/8eae3c3b266f328d8ee060594656fd21.jpg ");
+    background-size: cover;
+}
+
+#img47 {
+    background-image: url("https://i.pinimg.com/236x/dd/4d/4f/dd4d4f9c1478196018e9bba2e5d0d2ad.jpg ");
+    background-size: cover;
+}
+
+#img48 {
+    background-image: url("https://i.pinimg.com/236x/e0/9b/0d/e09b0d34ff8c6d42608de5337916b3bf.jpg ");
+    background-size: cover;
+}
+
+#img49 {
+    background-image: url("https://i.pinimg.com/236x/52/c9/e0/52c9e0cd38d6ad647816afc5c820bfaf.jpg ");
+    background-size: cover;
+}
+
+#img50 {
+    background-image: url("https://i.pinimg.com/236x/09/63/24/096324d0c55035d45841d49ee703f902.jpg ");
+    background-size: cover;
+}
